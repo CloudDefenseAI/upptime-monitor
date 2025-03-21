@@ -30,7 +30,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://www.clouddefense.ai/wp-content/uploads/2023/09/Green-iconwhite-text-vertical.png
   name: Upptime
-  introTitle: ""**CloudDefense.AI** uptime monitor and status page""
+  introTitle: "**CloudDefense.AI** uptime monitor and status page"
   introMessage: This is a **CloudDefense.AI** status page which uses **real-time** data.
   navbar:
     - title: Status
