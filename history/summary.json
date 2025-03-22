@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1041,
-    "timeDay": 1041,
-    "timeWeek": 1041,
-    "timeMonth": 1041,
-    "timeYear": 1041,
+    "time": 1077,
+    "timeDay": 1077,
+    "timeWeek": 1077,
+    "timeMonth": 1077,
+    "timeYear": 1077,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 295,
-    "timeWeek": 295,
-    "timeMonth": 295,
-    "timeYear": 295,
+    "time": 322,
+    "timeDay": 322,
+    "timeWeek": 322,
+    "timeMonth": 322,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 263,
-    "timeWeek": 263,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "time": 285,
+    "timeDay": 285,
+    "timeWeek": 285,
+    "timeMonth": 285,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1159,
-    "timeDay": 1159,
-    "timeWeek": 1159,
-    "timeMonth": 1159,
-    "timeYear": 1159,
+    "time": 1163,
+    "timeDay": 1163,
+    "timeWeek": 1163,
+    "timeMonth": 1163,
+    "timeYear": 1163,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1128,
-    "timeDay": 1128,
-    "timeWeek": 1128,
-    "timeMonth": 1128,
-    "timeYear": 1128,
+    "time": 1129,
+    "timeDay": 1129,
+    "timeWeek": 1129,
+    "timeMonth": 1129,
+    "timeYear": 1129,
     "dailyMinutesDown": {}
   },
   {
@@ -95,18 +95,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa.clouddefenseai.com.ico",
     "slug": "cloud-defense-ai-dev-sec-ops-portal-qa",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "62.99%",
+    "uptimeDay": "62.99%",
+    "uptimeWeek": "62.99%",
+    "uptimeMonth": "62.99%",
+    "uptimeYear": "62.99%",
     "time": 257,
     "timeDay": 257,
     "timeWeek": 257,
     "timeMonth": 257,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-03-21": 1
+      "2025-03-22": 26,
+      "2025-03-21": 322
     }
   },
   {
@@ -115,18 +116,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/acs-qa.clouddefenseai.com.ico",
     "slug": "cloud-defense-ai-cloud-sec-portal-qa",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "63.05%",
+    "uptimeDay": "63.05%",
+    "uptimeWeek": "63.05%",
+    "uptimeMonth": "63.05%",
+    "uptimeYear": "63.05%",
     "time": 269,
     "timeDay": 269,
     "timeWeek": 269,
     "timeMonth": 269,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2025-03-21": 0
+      "2025-03-22": 26,
+      "2025-03-21": 321
     }
   }
 ]
