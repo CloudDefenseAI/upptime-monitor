@@ -9,6 +9,8 @@ sites:
     url: https://console.clouddefenseai.com
   - name: CloudDefense.AI CloudSec Portal(US)
     url: https://acs-us.clouddefenseai.com
+  - name: CloudDefense.AI DevSecOps Portal(IND)
+    url: https://console-ind.clouddefenseai.com
   - name: CloudDefense.AI DevSecOps Portal(UAE)
     url: https://uae.clouddefenseai.com
   - name: CloudDefense.AI CloudSec Portal(UAE)
@@ -17,6 +19,10 @@ sites:
     url: https://qa.clouddefenseai.com
   - name: CloudDefense.AI CloudSec Portal(QA)
     url: https://acs-qa.clouddefenseai.com
+  - name: CloudDefense.AI DevSecOps Portal(DEV)
+    url: https://dev.clouddefenseai.com
+  - name: CloudDefense.AI CloudSec Portal(DEV)
+    url: https://acs-dev.clouddefenseai.com
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
