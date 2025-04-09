@@ -11,10 +11,10 @@ sites:
     url: https://acs-us.clouddefenseai.com
   - name: CloudDefense.AI DevSecOps Portal(IND)
     url: https://console-ind.clouddefenseai.com
-  - name: CloudDefense.AI DevSecOps Portal(UAE)
-    url: https://uae.clouddefenseai.com
-  - name: CloudDefense.AI CloudSec Portal(UAE)
-    url: https://acs-uae.clouddefenseai.com
+  # - name: CloudDefense.AI DevSecOps Portal(UAE)
+  #   url: https://uae.clouddefenseai.com
+  # - name: CloudDefense.AI CloudSec Portal(UAE)
+  #   url: https://acs-uae.clouddefenseai.com
   - name: CloudDefense.AI DevSecOps Portal(QA)
     url: https://qa.clouddefenseai.com
   - name: CloudDefense.AI CloudSec Portal(QA)
