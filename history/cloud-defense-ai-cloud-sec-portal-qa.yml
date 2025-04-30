@@ -1,7 +1,7 @@
 url: https://acs-qa.clouddefenseai.com
-status: down
-code: 503
-responseTime: 271
-lastUpdated: 2025-04-29T23:07:12.438Z
+status: up
+code: 200
+responseTime: 326
+lastUpdated: 2025-04-30T02:53:30.020Z
 startTime: 2025-03-21T08:45:17.871Z
 generator: Upptime <https://github.com/upptime/upptime>
