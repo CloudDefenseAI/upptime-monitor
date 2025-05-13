@@ -1,7 +1,7 @@
 url: https://qa.clouddefenseai.com
-status: down
-code: 503
-responseTime: 218
-lastUpdated: 2025-05-12T23:07:18.258Z
+status: up
+code: 200
+responseTime: 279
+lastUpdated: 2025-05-13T03:02:59.164Z
 startTime: 2025-03-21T08:45:17.316Z
 generator: Upptime <https://github.com/upptime/upptime>
